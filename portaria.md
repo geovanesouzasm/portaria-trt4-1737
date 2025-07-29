@@ -1027,14 +1027,14 @@ III – designar, para a gestão e fiscalização dos contratos, servidores lota
 
 ### Documentos Obrigatórios:
 - Documento de Formalização da Demanda (Formulário CLC-01)
-- Termo de Referência Modelo Simplificado (Formulário CLC-5B) ou Projeto Básico (Formulário CLC-06)
-- Termo de Referência Modelo Completo (Formulário CLC-5A)
+- Termo de Referência Modelo Simplificado (Formulário CLC-5B ) ou Projeto Básico ( Formulário CLC-06)
+- Indicação e Ciência de Equipe de Gestão e Fiscalização de Contrato, quando houver (Formulário CLC-07)
 
 ### Documentos Facultativos:
-- Formulário de Instituição da Equipe de Planejamento da Contratação (Formulário CLC-02)
-- Estudo Técnico Preliminar (Formulário CLC-03)
+- Formulário de Instituição da Equipe de Planejamento da Contratação ( Formulário CLC-02)
+- Estudo Técnico Preliminar ( Formulário CLC-03)
 - Mapa de Riscos (Formulário CLC-04)
-- Indicação e Ciência de Equipe de Gestão e Fiscalização de Contrato, quando houver (Formulário CLC-07)
+- Termo de Referência Modelo Completo (Formulário CLC-5A)
 
 ## DISPENSA DE LICITAÇÃO - LICITAÇÃO DESERTA OU FRACASSADA
 
@@ -1058,13 +1058,13 @@ III – designar, para a gestão e fiscalização dos contratos, servidores lota
 ### Documentos Obrigatórios:
 - Documento de Formalização da Demanda (Formulário CLC-01)
 - Termo de Referência Modelo Simplificado (Formulário CLC-5B) ou Projeto Básico (Formulário CLC-06)
-- Termo de Referência Modelo Completo (Formulário CLC-5A)
+- Indicação e Ciência de Equipe de Gestão e Fiscalização de Contrato, quando houver (Formulário CLC-07)
 
 ### Documentos Facultativos:
 - Formulário de Instituição da Equipe de Planejamento da Contratação (Formulário CLC-02)
 - Estudo Técnico Preliminar (Formulário CLC-03)
 - Mapa de Riscos (Formulário CLC-04)
-- Indicação e Ciência de Equipe de Gestão e Fiscalização de Contrato, quando houver (Formulário CLC-07)
+- Termo de Referência Modelo Completo (Formulário CLC-5A)
 
 ## DISPENSAS DE LICITAÇÃO - INCISOS IV, IX E XIV (VALOR ALTO)
 
@@ -1088,15 +1088,15 @@ III – designar, para a gestão e fiscalização dos contratos, servidores lota
 **Valor Estimado:** Independente do valor
 
 ### Documentos Obrigatórios:
-- Documento de Formalização da Demanda - Calamidade Pública (Formulário CLC-01B)
-- Termo de Referência - Calamidade Pública (Formulário CLC-5G) ou Projeto Básico
-- Termo de Referência Modelo Completo (Formulário CLC-5A)
+- Documento de Formalização da Demanda (Formulário CLC-01)
+- Termo de Referência Modelo Simplificado (Formulário CLC-5B) ou Projeto Básico (Formulário CLC-06)
+- Indicação e Ciência de Equipe de Gestão e Fiscalização de Contrato, quando houver (Formulário CLC-07)
 
 ### Documentos Facultativos:
-- Formulário de Instituição da Equipe de Planejamento da Contratação (Formulário CLC-02)
-- Estudo Técnico Preliminar (Formulário CLC-03)
+- Formulário de Instituição da Equipe de Planejamento da Contratação ( Formulário CLC-02)
+- Estudo Técnico Preliminar ( Formulário CLC-03)
 - Mapa de Riscos (Formulário CLC-04)
-- Indicação e Ciência de Equipe de Gestão e Fiscalização de Contrato, quando houver formalização de contrato (Formulário CLC-07)
+- Termo de Referência Modelo Completo (Formulário CLC-5A)
 
 ## INEXIGIBILIDADE - CONVÊNIOS E ACORDOS (NÃO ONEROSO)
 
